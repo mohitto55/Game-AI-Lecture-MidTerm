@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Pacman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\Pacman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Pacman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\Pacman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\AStar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\AStar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HuntedState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\HuntedState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HuntedState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\HuntedState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GoHomeState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GoHomeState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HunterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\HunterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HunterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\HunterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\USERS\\ADMIN\\SOURCE\\REPOS\\GAMEAILECTUREMIDTERM\\GAMEAILECTUREMIDTERM\\BASESTATE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GAMEAILECTUREMIDTERM\\BASESTATE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\RespawnState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\RespawnState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\RespawnState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\RespawnState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\mainProc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\mainProc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\gameCursor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\gameCursor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameBaseEntity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameBaseEntity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GoHomeState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GoHomeState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameBaseEntity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\GameBaseEntity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\AStar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\AStar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\FSM\\BaseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\FSM\\BaseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\gameCursor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA906A4-67BE-4645-BE9E-8DD57DAA1A75}|GameAILectureMidTerm\\GameAILectureMidTerm.vcxproj|solutionrelative:GameAILectureMidTerm\\gameCursor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\FSM\\GameBaseEntity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameAILectureMidTerm\\FSM\\GameBaseEntity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HuntedState.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HuntedState.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\HuntedState.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HuntedState.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\HuntedState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T18:21:32.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoHomeState.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GoHomeState.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GoHomeState.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GoHomeState.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\GoHomeState.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T05:21:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HuntedState.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HuntedState.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\HuntedState.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HuntedState.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\HuntedState.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T18:24:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AStar.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\AStar.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\AStar.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\AStar.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\AStar.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T18:40:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tile.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Tile.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\Tile.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Tile.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\Tile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T15:58:21.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Enemy.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Enemy.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\Enemy.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T05:13:22.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Enemy.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\Enemy.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Enemy.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\Enemy.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T04:52:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pacman.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Pacman.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\Pacman.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Pacman.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\Pacman.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T05:04:09.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pacman.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Pacman.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\Pacman.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Pacman.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\Pacman.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T05:04:10.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HunterState.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HunterState.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\HunterState.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HunterState.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\HunterState.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T18:24:08.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HunterState.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HunterState.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\HunterState.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\HunterState.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\HunterState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T18:22:09.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseState.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\BaseState.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\BaseState.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\BaseState.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\BaseState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T18:25:51.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RespawnState.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\RespawnState.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\RespawnState.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\RespawnState.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\RespawnState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T18:22:36.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RespawnState.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\RespawnState.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\RespawnState.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\RespawnState.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\RespawnState.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T18:25:36.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "mainProc.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\mainProc.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\mainProc.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\mainProc.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\mainProc.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T05:04:08.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameObject.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameObject.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T16:46:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "util.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\util.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\util.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\util.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\util.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T13:24:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameMap.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameMap.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameMap.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameMap.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameMap.cpp",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T04:54:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameManager.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameManager.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameManager.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T05:02:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameBaseEntity.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameBaseEntity.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameBaseEntity.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameBaseEntity.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameBaseEntity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T02:52:39.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "gameCursor.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\gameCursor.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\gameCursor.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\gameCursor.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\gameCursor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T14:13:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameMap.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameMap.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameMap.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameMap.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameMap.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T04:53:23.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameManager.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameManager.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameManager.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameManager.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T05:03:36.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameObject.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameObject.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameObject.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameObject.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T05:05:49.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\util.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\util.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\util.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\util.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T17:15:19.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GoHomeState.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GoHomeState.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GoHomeState.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GoHomeState.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\GoHomeState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T05:17:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GameBaseEntity.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameBaseEntity.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\GameBaseEntity.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\GameBaseEntity.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\GameBaseEntity.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T18:15:51.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Tile.cpp",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\Tile.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\Tile.cpp",
+              "RelativeToolTip": "GameAILectureMidTerm\\Tile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T17:25:45.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AStar.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\AStar.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\AStar.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\AStar.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\AStar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T18:32:16.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseState.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\FSM\\BaseState.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\FSM\\BaseState.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\FSM\\BaseState.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\FSM\\BaseState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T18:14:43.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "gameCursor.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\gameCursor.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\gameCursor.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\gameCursor.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\gameCursor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T15:58:19.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GameBaseEntity.h",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\FSM\\GameBaseEntity.h",
+              "RelativeDocumentMoniker": "GameAILectureMidTerm\\FSM\\GameBaseEntity.h",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\GameAILectureMidTerm\\GameAILectureMidTerm\\FSM\\GameBaseEntity.h",
+              "RelativeToolTip": "GameAILectureMidTerm\\FSM\\GameBaseEntity.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T04:17:00.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "ViewState": "AgIAAHIXAAAAAAAAAAAuwIIXAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-27T17:44:56.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

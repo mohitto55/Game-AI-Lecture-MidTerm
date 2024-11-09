@@ -1,0 +1,14 @@
+﻿  GameManager.cpp
+C:\Users\admin\source\repos\GameAILectureMidTerm\GameAILectureMidTerm\GameObject.h(6,9): warning C4005: 'SPACE': 매크로 재정의
+  (소스 파일 'GameManager.cpp'을(를) 컴파일하는 중)
+      C:\Users\admin\source\repos\GameAILectureMidTerm\GameAILectureMidTerm\util.h(8,9):
+      'SPACE'의 이전 정의를 참조하십시오.
+  
+C:\Users\admin\source\repos\GameAILectureMidTerm\GameAILectureMidTerm\GameManager.cpp(10,10): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+  util.cpp
+C:\Users\admin\source\repos\GameAILectureMidTerm\GameAILectureMidTerm\util.cpp(16,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\admin\source\repos\GameAILectureMidTerm\GameAILectureMidTerm\util.cpp(105,53): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  GameAILectureMidTerm.vcxproj -> C:\Users\admin\source\repos\GameAILectureMidTerm\x64\Debug\GameAILectureMidTerm.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
